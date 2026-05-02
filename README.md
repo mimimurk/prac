@@ -65,3 +65,4 @@ git add test.txt
 git commit -m "merge feature"
 git push
 ```
+STUDENT_TOKEN: TOKEN-mimimurk
